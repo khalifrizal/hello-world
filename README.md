@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Ini yang lain punya. Tak sama dengan master.
